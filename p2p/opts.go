@@ -91,7 +91,7 @@ func newAddrsFactory(advertiseAddrs []ma.Multiaddr) func([]ma.Multiaddr) []ma.Mu
 }
 
 func getPublicIP() (string, error) {
-	res, err := http.Get("https://ifconfig.me/ip")
+	res, err := http.Get("https://icanhazip.com")
 	if err != nil {
 		return "", err
 	}
