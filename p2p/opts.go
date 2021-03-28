@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
+	"strings"
 
 	leveldbStore "github.com/ipfs/go-ds-leveldb"
 	libp2p "github.com/libp2p/go-libp2p"
@@ -100,7 +101,7 @@ func getPublicIP() (string, error) {
 	if err != nil {
 		return "", err
 	}
-	return string(ipBytes), nil
+	return strings.TrimSuffix(string(ipBytes), "\n"), nil
 }
 
 // NewDHT returns a new Kademlia DHT instance configured to work with 0x Mesh
