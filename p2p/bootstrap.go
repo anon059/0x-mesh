@@ -78,7 +78,7 @@ func ConnectToBootstrapList(ctx context.Context, host host.Host, bootstrapList [
 	// It is recommended to wait for 2 seconds after connecting to all the
 	// bootstrap peers to give time for the relevant notifees to trigger and the
 	// DHT to fully initialize.
-	// See: https://github.com/0xProject/0x-mesh/pull/69#discussion_r286849679
+	// See: https://github.com/anon059/0x-mesh/pull/69#discussion_r286849679
 	time.Sleep(2 * time.Second)
 
 	return nil

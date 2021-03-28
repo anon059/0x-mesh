@@ -3,7 +3,7 @@ package ethereum
 import (
 	"testing"
 
-	"github.com/0xProject/0x-mesh/constants"
+	"github.com/anon059/0x-mesh/constants"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/0xProject/0x-mesh/ethereum/signer"
-	"github.com/0xProject/0x-mesh/ethereum/wrappers"
-	"github.com/0xProject/0x-mesh/zeroex/orderwatch/decoder"
+	"github.com/anon059/0x-mesh/ethereum/signer"
+	"github.com/anon059/0x-mesh/ethereum/wrappers"
+	"github.com/anon059/0x-mesh/zeroex/orderwatch/decoder"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 	gethsigner "github.com/ethereum/go-ethereum/signer/core"

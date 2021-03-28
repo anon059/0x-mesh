@@ -1,8 +1,8 @@
 package core
 
 import (
-	"github.com/0xProject/0x-mesh/constants"
-	"github.com/0xProject/0x-mesh/p2p"
+	"github.com/anon059/0x-mesh/constants"
+	"github.com/anon059/0x-mesh/p2p"
 	"github.com/xeipuuv/gojsonschema"
 )
 

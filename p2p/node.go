@@ -12,9 +12,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/0xProject/0x-mesh/constants"
-	"github.com/0xProject/0x-mesh/p2p/banner"
-	"github.com/0xProject/0x-mesh/p2p/ratevalidator"
+	"github.com/anon059/0x-mesh/constants"
+	"github.com/anon059/0x-mesh/p2p/banner"
+	"github.com/anon059/0x-mesh/p2p/ratevalidator"
 	lru "github.com/hashicorp/golang-lru"
 	libp2p "github.com/libp2p/go-libp2p"
 	connmgr "github.com/libp2p/go-libp2p-connmgr"

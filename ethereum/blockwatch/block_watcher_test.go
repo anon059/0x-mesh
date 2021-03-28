@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/0xProject/0x-mesh/ethereum/miniheader"
-	"github.com/0xProject/0x-mesh/ethereum/simplestack"
+	"github.com/anon059/0x-mesh/ethereum/miniheader"
+	"github.com/anon059/0x-mesh/ethereum/simplestack"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/assert"

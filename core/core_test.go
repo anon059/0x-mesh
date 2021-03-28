@@ -5,7 +5,7 @@ package core
 import (
 	"testing"
 
-	"github.com/0xProject/0x-mesh/meshdb"
+	"github.com/anon059/0x-mesh/meshdb"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

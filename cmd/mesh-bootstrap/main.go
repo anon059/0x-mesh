@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/0xProject/0x-mesh/loghooks"
-	"github.com/0xProject/0x-mesh/p2p"
-	"github.com/0xProject/0x-mesh/p2p/banner"
+	"github.com/anon059/0x-mesh/loghooks"
+	"github.com/anon059/0x-mesh/p2p"
+	"github.com/anon059/0x-mesh/p2p/banner"
 	"github.com/ipfs/go-datastore"
 	leveldbStore "github.com/ipfs/go-ds-leveldb"
 	libp2p "github.com/libp2p/go-libp2p"

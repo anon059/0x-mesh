@@ -1,7 +1,7 @@
 package orderwatch
 
 import (
-	"github.com/0xProject/0x-mesh/zeroex/orderwatch/decoder"
+	"github.com/anon059/0x-mesh/zeroex/orderwatch/decoder"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 )

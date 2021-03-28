@@ -3,7 +3,7 @@ package integrationtests
 import (
 	"math/big"
 
-	"github.com/0xProject/0x-mesh/constants"
+	"github.com/anon059/0x-mesh/constants"
 )
 
 const (

@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/0xProject/0x-mesh/meshdb"
+	"github.com/anon059/0x-mesh/meshdb"
 	"github.com/benbjohnson/clock"
 	log "github.com/sirupsen/logrus"
 	"github.com/syndtr/goleveldb/leveldb"

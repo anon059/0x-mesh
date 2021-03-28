@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/0xProject/0x-mesh/p2p/banner"
+	"github.com/anon059/0x-mesh/p2p/banner"
 	"github.com/google/uuid"
 	p2pcrypto "github.com/libp2p/go-libp2p-core/crypto"
 	p2pnet "github.com/libp2p/go-libp2p-core/network"

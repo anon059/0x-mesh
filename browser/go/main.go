@@ -9,8 +9,8 @@ import (
 	"syscall/js"
 	"time"
 
-	"github.com/0xProject/0x-mesh/core"
-	"github.com/0xProject/0x-mesh/zeroex"
+	"github.com/anon059/0x-mesh/core"
+	"github.com/anon059/0x-mesh/zeroex"
 	"github.com/ethereum/go-ethereum/event"
 )
 

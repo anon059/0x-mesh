@@ -9,7 +9,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/0xProject/0x-mesh/keys"
+	"github.com/anon059/0x-mesh/keys"
 	p2pcrypto "github.com/libp2p/go-libp2p-core/crypto"
 	log "github.com/sirupsen/logrus"
 

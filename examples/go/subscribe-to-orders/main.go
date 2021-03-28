@@ -6,8 +6,8 @@ package main
 import (
 	"context"
 
-	"github.com/0xProject/0x-mesh/rpc"
-	"github.com/0xProject/0x-mesh/zeroex"
+	"github.com/anon059/0x-mesh/rpc"
+	"github.com/anon059/0x-mesh/zeroex"
 	"github.com/plaid/go-envvar/envvar"
 	log "github.com/sirupsen/logrus"
 )

@@ -28,14 +28,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/0xProject/0x-mesh.git"
+        "url": "https://github.com/anon059/0x-mesh.git"
     },
     "author": "Fabio Berger",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/0xProject/0x-mesh/issues"
+        "url": "https://github.com/anon059/0x-mesh/issues"
     },
-    "homepage": "https://github.com/0xProject/0x-mesh/rpc/clients/typescript/README.md",
+    "homepage": "https://github.com/anon059/0x-mesh/rpc/clients/typescript/README.md",
     "dependencies": {
         "@0x/assert": "^3.0.2",
         "@0x/types": "^3.1.1",

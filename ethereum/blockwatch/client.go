@@ -6,8 +6,8 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/0xProject/0x-mesh/ethereum/ethrpcclient"
-	"github.com/0xProject/0x-mesh/ethereum/miniheader"
+	"github.com/anon059/0x-mesh/ethereum/ethrpcclient"
+	"github.com/anon059/0x-mesh/ethereum/miniheader"
 	"github.com/ethereum/go-ethereum"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"

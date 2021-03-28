@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/0xProject/0x-mesh/ethereum/miniheader"
+	"github.com/anon059/0x-mesh/ethereum/miniheader"
 )
 
 // UpdateType is the type of update applied to the in-memory stack
